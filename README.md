@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/a0ab1d87-79b1-42cf-9879-262b49d82491)
+
 # Eye-Controlled Mouse Project
 
 This project leverages computer vision and eye-tracking to control the mouse cursor and perform left-click actions using eye movements. The right eye is used to control cursor movement, while the left eye triggers a left-click when it detects a blink.
